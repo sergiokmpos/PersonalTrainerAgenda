@@ -1,0 +1,45 @@
+Criar Repositorio
+
+Criar um ambiente virtual python
+
+Terminal = python -m venv venv (uma pasta é criada)
+
+Terminal = source venv/bin/activate (par ativar o ambiente)
+
+
+Terminal= pip install pandas python-bcb (instala bibliotecas)
+
+Terminal= pip install streamlit (instala bibliotecas)
+
+Ctlr + L = Para limpar os codigos do terminal
+
+Terminal = streamlit heloo (teste se o streamlit está funcionando)
+
+Menu Lateral = Cria arquivo "app.py"
+
+Instala recomendação que aparece - Instala o Python
+
+Escreve um codigo simples no app.py para validar que funciona
+Terminal = streamlit run app.py
+
+
+cria um arquivo chamado .gitignore com o conteúdo
+
+.vscode
+venv
+
+no terminal
+
+git add .
+git status 
+
+git commit -m "Primeiros Arquivos"
+
+git push,
+
+
+# Configurar a API do OpenAI
+
+    Você é um assistente inteligente que responde perguntas baseadas em um arquivo CSV local. O arquivo contém informações detalhadas sobre [descreva o conteúdo do CSV]. 
+    Sua tarefa é fornecer respostas precisas e úteis com base nas informações contidas no arquivo. 
+    Se a resposta não estiver no arquivo, você deve informar que a informação não está disponível.
