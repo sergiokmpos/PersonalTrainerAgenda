@@ -1,0 +1,15 @@
+[theme]
+# Cor principal usada para acentos (botões, links, alguns cabeçalhos)
+primaryColor = "#FFD700" # Amarelo Ouro (pode usar "#FFFF00" para amarelo puro)
+
+# Cor de fundo principal do aplicativo
+backgroundColor = "#000000" # Preto puro
+
+# Cor de fundo para a barra lateral e containers
+secondaryBackgroundColor = "#1A1A1A" # Preto muito escuro / cinza carvão para contraste sutil
+
+# Cor do texto principal
+textColor = "#FFFFFF" # Branco para alta legibilidade em fundo escuro
+
+# Fonte (opcional: sans serif, serif, monospace)
+# font = "sans serif"
