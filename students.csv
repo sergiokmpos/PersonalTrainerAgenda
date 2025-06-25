@@ -1,3 +1,3 @@
-Name,Age,Gender,Email,Phone,Address,Emergency Contact,Medical Conditions,Goals,Additional Information,ID
-Sergio paiva de Campos,43,Masculino,sergiokmpos@gmail.com,15997362592,"Agostinho de Andrade Ramos
-89",15997362592,Condições Médicas BOA,Objetivos SIM,Informações Adicionais NÃO,7e9ccb12-e0cc-43b9-81c0-4ce962dd19fc
+Name,Age,Gender,Email,Phone,Address,Emergency Contact,Medical Conditions,Goals,Additional Information,ID,Date of Birth,Name_ID,Idade,Data de Nascimento
+Sergio paiva de Campos,,Masculino,sergiokmpos@gmail.com,15997362592,"Agostinho de Andrade Ramos
+89",1213122233,boas,sim,não,b8df4074-5d66-41cb-b23f-5dcef38fd776,1990-09-27,,,
